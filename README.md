@@ -8,7 +8,7 @@ pretendo me tornar um Fullstack Developer :computer:
  :rocket:  &nbsp; Estou estudando tecnologias para desenvolvimento de software
  <br/> :computer: &nbsp; Minha stack atual: ReactJS, Node.js, React Native
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, filmes e livros
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-JoãoVictorVelho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-victor-rivoiro-velho-4a3372138/)](https://www.linkedin.com/in/joão-victor-rivoiro-velho-4a3372138/)
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-JoãoVictorVelho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaovrvelho/)](https://www.linkedin.com/in/joaovrvelho/)
 | [![Gmail Badge](https://img.shields.io/badge/-joaovictor.rv39@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaovictor.rv39@gmail.com)](mailto:joaovictor.rv39@gmail.com)
 
 
