@@ -2,8 +2,8 @@
 # João Victor R Velho
 
 ## Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação e
-pretendo me tornar um Fullstack Developer :computer:
+Sou interessado por resolver problemas utilizando a programação e
+pretendo me tornar um Software Developer :computer:
 
  :rocket:  &nbsp; Estou estudando tecnologias para desenvolvimento de software
  <br/> :computer: &nbsp; Minha stack atual: ReactJS, Node.js, React Native
