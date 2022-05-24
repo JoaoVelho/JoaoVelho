@@ -3,7 +3,7 @@
 
 ## Olá pessoal 👋
 Sou interessado por resolver problemas utilizando a programação e
-pretendo me tornar um Software Developer :computer:
+me tornei um Software Developer :computer:
 
  :rocket:  &nbsp; Estou estudando tecnologias para desenvolvimento de software
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, filmes e livros
